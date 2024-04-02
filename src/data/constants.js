@@ -227,14 +227,6 @@ export const experiences = [
     date: 'May 2023 - Present',
     desc: 'Contributing to different open-source projects and learn from industry experts',
     doc: 'https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc',
-  },
-  {
-    id: 3,
-    img: 'https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4',
-    role: 'Android Developer',
-    company: 'DSC KIIT',
-    date: 'Nov2021 - Present',
-    desc: 'As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.',
     skills: [
       'Leadership',
       'Mobile Application Development',
