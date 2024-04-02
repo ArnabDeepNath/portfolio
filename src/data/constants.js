@@ -248,7 +248,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: 'https://media.licdn.com/dms/image/C560BAQE4UC9Z_k3c7A/company-logo_200_200/0/1579422507409?e=1692230400&v=beta&t=HJssPsrwwkAJAsvFiVIYPdM8GzUuuSK5YlATKgLx3Bc',
+    img: 'https://upload.wikimedia.org/wikipedia/en/a/ab/Assam_Engineering_College_logo.png',
     school: 'Assam Engineering College , Guwahati',
     date: 'Aug 2018 - Aug 2022',
     grade: '6.91 CGPA',
@@ -257,7 +257,7 @@ export const education = [
   },
   {
     id: 1,
-    img: 'https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg',
+    img: 'https://www.dpsjhakri.com/images/dps_logo1.png',
     school: 'Delhi Public School , Duliajan',
     date: 'April 2016 - Apr 2018',
     grade: '84.2%',
@@ -266,7 +266,7 @@ export const education = [
   },
   {
     id: 2,
-    img: 'https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxQ_KM5hGMt3DpuSW2lMEYOpZVudubGWIAIYjV4xOUA&s',
     school: "St. Xavier's Higher Secondary School",
     date: 'Jan 2004 - Jan 2016',
     grade: '90.3%',
