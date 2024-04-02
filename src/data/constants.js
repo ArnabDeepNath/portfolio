@@ -251,9 +251,9 @@ export const education = [
     img: 'https://media.licdn.com/dms/image/C560BAQE4UC9Z_k3c7A/company-logo_200_200/0/1579422507409?e=1692230400&v=beta&t=HJssPsrwwkAJAsvFiVIYPdM8GzUuuSK5YlATKgLx3Bc',
     school: 'Assam Engineering College , Guwahati',
     date: 'Aug 2018 - Aug 2022',
-    grade: '8.71 CGPA',
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: 'Bachelor of Technology - BTech, Computer Science and Engineering',
+    grade: '6.91 CGPA',
+    desc: "I completed my Bachelor's degree in Instrumentation Engineering from Assam Engineering College , Guwahati. Been associated with Machine Learning and Data Science , along with its implementation in Digital Embedded System , along with Software and Hardware integration was a key learning from my 4 years of Engineering Life.",
+    degree: 'Bachelor of Technology - BTech, Intrumentation Engineering',
   },
   {
     id: 1,
@@ -261,7 +261,7 @@ export const education = [
     school: 'Delhi Public School , Duliajan',
     date: 'April 2016 - Apr 2018',
     grade: '84.2%',
-    desc: 'I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.',
+    desc: 'I completed my class 12 high school education at Delhi Public School , Duliajan where I studied Science with Computer Science.',
     degree: 'CBSE(XII), Science with Computer',
   },
   {
@@ -270,7 +270,7 @@ export const education = [
     school: "St. Xavier's Higher Secondary School",
     date: 'Jan 2004 - Jan 2016',
     grade: '90.3%',
-    desc: 'I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.',
+    desc: "I completed my class 10 education at St. Xavier's Higher Secondary School",
     degree: 'SEBA(X)',
   },
 ];
