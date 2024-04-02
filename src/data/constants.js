@@ -11,7 +11,7 @@ export const Bio = {
   github: 'https://github.com/ArnabDeepNath',
   resume:
     'https://drive.google.com/file/d/1M0PO_kw9cmlFErDW71azaOrUecizIoC1/view?usp=sharing',
-  linkedin: 'https://www.linkedin.com/in/rishav-chanda-b89a791b3/',
+  linkedin: 'https://www.linkedin.com/in/arnabdeepnath/',
   twitter: 'https://twitter.com/RishavChanda',
   insta: 'https://www.instagram.com/rishav_chanda/',
   facebook: 'https://www.facebook.com/rishav.chanda.165/',
