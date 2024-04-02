@@ -186,7 +186,7 @@ export const experiences = [
     img: 'https://media.licdn.com/dms/image/C560BAQFQb9_Lb3bZug/company-logo_200_200/0/1644414857251?e=1693440000&v=beta&t=7WqhIiUCg_0otFDwWn-O_SP-Z4Ftoe4be1WlnjYoESc',
     role: 'Web Designer , Executive',
     company: 'Lafayette Luxury Concierge Private Limited',
-    date: 'June 2023 - Present',
+    date: 'Nov 2023 - Present',
     desc: 'Working on the frontend of the web application using ReactJS, Redux, and Material UI.',
     skills: [
       'ReactJS',
@@ -204,7 +204,7 @@ export const experiences = [
     img: 'https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8',
     role: 'Fullstack Developer',
     company: 'MeritFox Technologies Private Limited',
-    date: 'June 2023 - July 2023',
+    date: 'June 2023 - Nov 2023',
     desc: 'Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.',
     skills: [
       'ReactJS',
@@ -224,7 +224,7 @@ export const experiences = [
     img: 'https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ',
     role: 'AI/ML Software Developer',
     company: 'Corrosion Intel Private Limited',
-    date: 'May 2023 - Present',
+    date: 'Oct 2022 - May 2023',
     desc: 'Contributing to different open-source projects and learn from industry experts',
     doc: 'https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc',
     skills: [
@@ -240,7 +240,7 @@ export const experiences = [
     img: 'https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ',
     role: 'Graduate Engineer Trainee',
     company: 'Caliche Private Limited',
-    date: 'May 2023 - Present',
+    date: 'July 2022 - Oct 2022',
     desc: 'Contributing to different open-source projects and learn from industry experts',
     doc: 'https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc',
     skills: [
