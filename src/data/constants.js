@@ -223,7 +223,7 @@ export const experiences = [
     role: 'AI/ML Software Developer',
     company: 'Corrosion Intel Private Limited',
     date: 'Oct 2022 - May 2023',
-    desc: 'Collaborating with Phd Gradutes from IITG to develop Full Stack Application for Corrosion Detectiona and Visualise it in Desktop based Application , PyQt was used for Frontend , MySQL for backend , Tensorflow was used for machine learning and Blender , PyOpenGl , Pymesh and Numpy for 3D Visualisation',
+    desc: 'Collaborating with Phd Gradutes from IITG to develop Full Stack Application for Corrosion Detection and Visualise it in Desktop based Application , PyQt was used for Frontend , MySQL for backend , Tensorflow was used for machine learning and Blender , PyOpenGl , Pymesh and Numpy for 3D Visualisation',
     doc: '',
     skills: [
       'Python',
@@ -335,7 +335,7 @@ export const projects = [
     title: 'Employee Management Software',
     date: 'March 2023',
     description:
-      'A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.',
+      'A simple Django app that shows the users of the organisation. It uses the Node JS API to fetch the data. It also has a search bar to search for a particular user.',
     image: '',
     tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
