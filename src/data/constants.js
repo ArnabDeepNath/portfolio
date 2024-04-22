@@ -197,7 +197,7 @@ export const experiences = [
       'CSS',
       'JavaScript',
     ],
-    doc: 'https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730',
+    doc: '',
   },
   {
     id: 1,
@@ -226,7 +226,7 @@ export const experiences = [
     company: 'Corrosion Intel Private Limited',
     date: 'Oct 2022 - May 2023',
     desc: 'Contributing to different open-source projects and learn from industry experts',
-    doc: 'https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc',
+    doc: '',
     skills: [
       'Leadership',
       'Mobile Application Development',
@@ -242,7 +242,7 @@ export const experiences = [
     company: 'Caliche Private Limited',
     date: 'July 2022 - Oct 2022',
     desc: 'Contributing to different open-source projects and learn from industry experts',
-    doc: 'https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc',
+    doc: '',
     skills: [
       'Leadership',
       'Mobile Application Development',
