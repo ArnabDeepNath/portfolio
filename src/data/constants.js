@@ -291,7 +291,7 @@ export const projects = [
     description:
       'Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.',
     image:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710937913.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710937913.png?raw=true',
     tags: [
       'Flutter',
       'Firebase',
@@ -310,7 +310,7 @@ export const projects = [
     description:
       'Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.',
     image:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710589851.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710589851.png?raw=true',
     tags: [
       'Flutter',
       'Firebase',
@@ -329,7 +329,7 @@ export const projects = [
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Digital%20Twin.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Digital%20Twin.png?raw=true',
     tags: ['Python', 'Keras', 'TensorFlow', 'Blender', 'PyQt', 'MySQL'],
     category: 'machine learning',
     github: '',
@@ -346,7 +346,7 @@ export const projects = [
     tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
     github:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUD%20Operation.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUD%20Operation.png?raw=true',
     webapp: '',
   },
   {
