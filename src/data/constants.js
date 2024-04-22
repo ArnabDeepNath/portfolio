@@ -202,7 +202,7 @@ export const experiences = [
   {
     id: 1,
     img: 'https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8',
-    role: 'Fullstack Developer',
+    role: 'Fullstack Developer , Contractual',
     company: 'MeritFox Technologies Private Limited',
     date: 'June 2023 - Nov 2023 (Contractual)',
     desc: 'Built various Android and IOS apps using Firebase Firestore and deployed on Google Play Store. leading a team of 2 junior developers.',
