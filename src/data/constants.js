@@ -285,194 +285,94 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: 'Trackify',
-    date: 'Jun 2023 - Jul 2023',
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      'https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png',
-    tags: [
-      'Docker',
-      'AWS',
-      'DuckDNS',
-      'Eslint',
-      'Husky',
-      'CI/CD',
-      'React Js',
-      'MongoDb',
-      'Node Js',
-      'Express Js',
-      'Redux',
-    ],
-    category: 'web app',
-    github: 'https://github.com/rishavchanda/Trackify',
-    webapp: 'https://trackify.duckdns.org',
-  },
-  {
     id: 0,
-    title: 'Podstream',
+    title: 'Invoice App',
     date: 'Apr 2023 - May 2023',
     description:
       'Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.',
     image:
       'https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png',
-    tags: ['React Js', 'MongoDb', 'Node Js', 'Express Js', 'Redux'],
-    category: 'web app',
-    github: 'https://github.com/rishavchanda/Podstream',
-    webapp: 'https://podstream.netlify.app/',
-    member: [
-      {
-        name: 'Rishav Chanda',
-        img: 'https://avatars.githubusercontent.com/u/64485885?v=4',
-        linkedin: 'https://www.linkedin.com/in/rishav-chanda-b89a791b3/',
-        github: 'https://github.com/rishavchanda/',
-      },
-      {
-        name: 'Upasana Chaudhuri',
-        img: 'https://avatars.githubusercontent.com/u/100614635?v=4',
-        linkedin: 'https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/',
-        github: 'https://github.com/upasana0710',
-      },
+    tags: [
+      'Flutter',
+      'Firebase',
+      'Google Cloud Service',
+      'Swagger API',
+      'Dart',
     ],
+    category: 'android app',
+    github: '',
+    webapp: '',
   },
   {
     id: 1,
-    title: 'Vexa',
+    title: 'Gst Filing App',
     date: 'Oct 2022 - Present',
     description:
       'Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.',
-    image:
-      'https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png',
+    image: '',
     tags: [
-      'React Js',
-      'MongoDb',
-      'Node Js',
-      'Express Js',
-      'Redux',
-      'NodeMailer',
+      'Flutter',
+      'Firebase',
+      'Google Cloud Service',
+      'Swagger API',
+      'Dart',
     ],
-    category: 'web app',
-    github: 'https://github.com/rishavchanda/Project-Management-App',
-    webapp: 'https://vexa-app.netlify.app/',
+    category: 'android app',
+    github: '',
+    webapp: '',
   },
   {
     id: 2,
-    title: 'Brain Tumor Detection',
-    date: 'Jan 2023 - Mar 2023',
+    title: 'Digital Twin',
+    date: 'Jan 2023 - May 2023',
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
       'https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png',
-    tags: ['Python', 'Keras', 'TensorFlow', 'VGG16', 'Pickle', 'React'],
+    tags: ['Python', 'Keras', 'TensorFlow', 'Blender', 'PyQt', 'MySQL'],
     category: 'machine learning',
-    github: 'https://github.com/rishavchanda/Brain-Tumor-Detection',
-    webapp: 'https://brain-tumor.netlify.app/',
-    member: [
-      {
-        name: 'Rishav Chanda',
-        img: 'https://avatars.githubusercontent.com/u/64485885?v=4',
-        linkedin: 'https://www.linkedin.com/in/rishav-chanda-b89a791b3/',
-        github: 'https://github.com/rishavchanda/',
-      },
-      {
-        name: 'Upasana Chaudhuri',
-        img: 'https://avatars.githubusercontent.com/u/100614635?v=4',
-        linkedin: 'https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/',
-        github: 'https://github.com/upasana0710',
-      },
-    ],
+    github: '',
+    webapp: '',
   },
-  {
-    id: 3,
-    title: 'Buckoid',
-    date: 'Dec 2021 - Apr 2022',
-    description:
-      'App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.',
-    image:
-      'https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435',
-    tags: ['Kotlin', 'MVVM', 'Room Database', 'Google Drive Cloud API'],
-    category: 'android app',
-    github: 'https://github.com/rishavchanda/Buckoid-Android-App',
-    webapp: 'https://play.google.com/store/apps/details?id=com.rishav.buckoid',
-  },
-  {
-    id: 10,
-    title: 'Job Finding App',
-    date: 'Jun 2023 - Jul 2023',
-    description:
-      'A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.',
-    image:
-      'https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png',
-    tags: ['React Native', 'JavaScript', 'Axios'],
-    category: 'android app',
-    github: 'https://github.com/rishavchanda/Job-finder-App',
-    webapp: 'https://github.com/rishavchanda/Job-finder-App',
-  },
-  {
-    id: 4,
-    title: 'Whatsapp Clone',
-    date: 'Jul 2021',
-    description:
-      'A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.',
-    image:
-      'https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89',
-    tags: ['React Js', 'Firebase', 'Firestore', 'Node JS'],
-    category: 'web app',
-    github: 'https://github.com/rishavchanda/Whatsapp-Clone-React-Js',
-    webapp: 'https://whatsapp-clone-rishav.web.app',
-  },
-  {
-    id: 5,
-    title: 'Todo Web App',
-    date: 'Jun 2021',
-    description:
-      ' A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.',
-    image:
-      'https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633',
-    tags: ['React Js', 'Local Storage', 'AWS Auth', 'Node JS'],
-    category: 'web app',
-    github: 'https://github.com/rishavchanda/Todo-Web-App',
-    webapp: 'https://rishav-react-todo.netlify.app/',
-  },
+
   {
     id: 6,
-    title: 'Breaking Bad',
-    date: 'Jun 2021',
+    title: 'Employee Management Software',
+    date: 'March 2023',
     description:
       'A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.',
-    image:
-      'https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263',
-    tags: ['React Js', 'API', 'Axios', 'Node JS'],
+    image: '',
+    tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
-    github: 'https://github.com/rishavchanda/Breaking-Bad',
-    webapp: 'https://breaking-bad-webapp.netlify.app',
+    github:
+      'https://lh3.googleusercontent.com/fife/ALs6j_HUuMvtX0mS6Rxe5NBjRxgM1IT6vJY-nnpI4OwWivIz4cjDcNIPWeKToVb3qQS6zL2068LVJ0EqP1TVdO6uojRgZzxP-HpA9qVt-hhRKjDNfJUL27IiKekTzo1eD_tqEbDQvQHAnvzQ0FpiENhpKiQEu3fm7BkAd49XAmg5xZ6QbpLbL54jRFtoy6QLpV3oLdX7hGnMLO88eER4yV515vuYkfT5DYprPLRplwhRUa3_tG8C6JPV3IdjuEDhIdG58fD4ktZIkPy8q5eqyCNgbY_6YQwoBbMJc2Hk5WrlWdIYLm1d4NeP_5f0AYh5sR5y2dwsZECAJZz7TU6KmZ_DQVpPf0kZJ03rxILXyEu0JFXNfZEQVUfbLmz-fTqtNkD2w_64ljc6FZganIlqHCKirSlf4Y6LS_Zg8glnpUj3EnZyDMh2N-P_G-TQwomGUiYYkl5H1cFVwK2v0fOkdBfrPkHMxFgWJTDbcklddwPXU_7weXpWsOnDuKxw6JzSVtZtg35KAkQZR_nMOWeGfpTa_pKNzlDsiStGjOMz1LSUt2-kC5HkotVi-PXiYiUDZE9RhMOeSDrCBdVKxf8KlVOHRTOJ1GbUOxQCp1WKuoYrCYXF0dP3J62QWn7FaIW-S74c5rVxWfljIH6W6wf0dnZJiyPGNCCdN5L_GvqzvlIIsk9xihYWtvCsyD2InDnDsGda2dVN6zWEu4VHPFvTCF5Mgg6hKmdRY5wo-ht0OefyQEH6pFyEwc8AQIGK2ZBzsLwg5WymqJ-k5OEQlO50IeghrkTNTh8qQiZt30DLEwaT8whHYcDMJTKPZEUQEYFoDI2FsPSivkvEglp3TMVIrOFoEnU1wFh1qcgsGS_ns7Xpx3HDq5CgGhxpnKpJU4sBgptGs3T3YFwzdV6RNMuBcL1FH1TKFHTZuEJzv1dii-fhROCIfN8yuAzovOumGMZbFJPiL4rJAoCz-gFCSJ6UbR4cXxtblLojdTeVfmQf3AHP2xEGc19uavBrAOBbE52ihxE0sSx-NbDAb-8EygIM8UJyuTBpx97Hi4trhJhtQYHKp-0JrgI_1Q=w1920-h888',
+    webapp: '',
   },
   {
     id: 7,
-    title: 'Quiz App',
-    date: 'Dec 2020 - Jan 2021',
+    title: 'Tire Fault Detection',
+    date: 'Dec 2022 - Jan 2023',
     description:
-      'A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.',
+      'The tire fault detection app is a Python application that uses contour image processing and machine learning to analyze tire images for faults. It takes input images, processes them to detect contours, and then applies machine learning algorithms to identify and classify faults. The app presents the results on a dashboard created with PyQt, providing a user-friendly interface for viewing and understanding the detected faults, enhancing tire inspection and maintenance processes.',
     image:
-      'https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif',
-    tags: ['Java', 'Android Studio', 'Firebase', 'Google Auth'],
-    category: 'android app',
-    github: 'https://github.com/rishavchanda/Quiz-Earn',
-    webapp: 'https://github.com/rishavchanda/Quiz-Earn',
+      'https://lh3.googleusercontent.com/fife/ALs6j_Gfb9Ii-JHoRto3hKo1tdzNFJoOJt9fZ8rymRV4TVOiHQNoLCQhC77Lb39WOxk-9if95eIK0qu0NqUkxHvkJzKS8zUvLN4Hsawdc-QYyeYnO95B_LbAbjRKJnV9IU3awLumGiYA10i20K89pZ2jUPbeg1OaImH5WLTWcm9coE3YqPjEzEPchNrmQszPwlqexy7NMevn8ZOTuLSgV6FnKJ1cKEceUZmSkYT6B9vOr7nZ-aHRSbnNXVAyUiaTfa6XxcPIto_RTR_0fbQJE-B8VP6qhboVZw9tVYZOWQjp_L0okfH-9F4YJXO4sMeXXJhZ46KIFctNQefZ7_TnNx_TzSj9Uq75sN1BV7S7BufRBy5nrGJd3jfDUm_yroKHf7x_pmQoPTmK6xIDIjBgYLunzjXbYziTRD1oKAamvNKH8I-NsSaeFXmTw9dz197T1prAN6BxNwYMyuyqNGAKHL3ydu-dKD745H1lb82wnWDG2SeU55bTcaCDgdxV4XWTaXlvAKdZsSpZSfn2V68uZij_6vkLKdaKB8NP6EC4E7nS8R4GAF4iz9B78aC7bM-VQWCQe0J1BvSnQKzMJOWymMgv4cnLgDl1FnOc_pZEFEQsv2vnl6iJcjaMM3Xp2g2DkM5kQvs6DhqCbKIJ-YY0rCJuhFN67rWVKurFKhrODPhJAk1Uyq8dURp5dmAe1_SiQRZOK257suEw0eVmmRtFkYCmxAfGkbqVrpyuCKjfXv4y1xvbxOiw0URuRJisecWlK76Xfj4Jls6Nyblrde90pyNausMCP6G1E0G52Me-L8RfKtjYhpLg2Bax5wUvtmwFOEaduaaPz2QqzAbL2iclz1f1KKJ8XsH-JvTV6UNEyLJ56VmKK0nHYUI6T-czZUB7iGujj8emxOEdYHHGn6HxeZKR7sgzIyyRJJ5Tja0iq5eEv7vtRg-UwhqQ725vEdkFopDzZmH0cauZDGPOFIkzs0dgyDDShqGEDrzXAXPYeX_kG5mMk6GbWLLNLduwpkMWXIF7iNeDeByDyG7gp23tNFGfJ4aSNQ7gF5D-GdqP4pVfEeFonXu020D_EbX7SgvxqfhVMbyS0ddIndgq1qDD9rXhSfiedz7VS98itTTTRyjO8L83NDSKiYjrqTe9FEJH8LxRWwsln6M6fNRDdJKuHibwqp9T5X4wI_h_W-dtkABPbkkEywhetO0bNHoNCSedLP-8AfWrfi149yyZaWpW67Lt0rsLTezNvLBrI5zd3iqVExccKNqZ4bTpb2WCZxe4m9ypiQ6HKinNBsRExJLa5lLTjd-G5Sru-xACWbvS5TDzn6V4VvoSjgc7f3Ni7gfOeTKeFpaN4knhW4ymekXv5uWWuhI1qceN-LqBjz8XZ3tV702GDlKV8hoGSkMyvD5kXupcryQtDC4KR6wHP6JJb1OsSAgxq_YYB49bZRTnE7elNsMerJ3yS8YrhFXUWfTcCRCKoKR485qpsBQ1K-qcPpZQ_QY4UBCmnEeJ9m-bJZJyO1UsXQ7TKSoMxcm7Z9hMwYGodRQZd6Pj62n5MTIwX7iZ_HD0wuDGvrYsdPQHowITRoTb4lPw5SZrZnEOZpZ1GjlqN65Do1TcKw2y3tCWEH0LAe5K4JDJ04qGomj6TJV7EuOhydFnMbNhRIHxELukUOJBQG0vav-XlHclbK1nAV_RRcnEfh9Toxh2yE6y4dB9LqIYPGtLCwbS6S8N=w1920-h888',
+    tags: ['Python', 'Keras', 'Tensorflow', 'OpenCV', 'PyQt'],
+    category: 'machine learning',
+    github: '',
+    webapp: '',
   },
   {
     id: 8,
-    title: 'Face Recognition',
-    date: 'Jan 2021',
+    title: 'Bottle Cap Recognition',
+    date: 'Sept 2022',
     description:
-      'A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.',
+      'A Bottle recognition python app made with OpenCV. It uses contours to detect circular caps and uses a counter to count the number of bottles. It uses the external device camera to accept the feed in. The GUI is designed in PyQt for dashboard experience.',
     image:
-      'https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636',
-    tags: ['Python', 'Keras', 'TensorFlow', 'VGG16', 'Pickle', 'React'],
+      'https://lh3.googleusercontent.com/fife/ALs6j_FuihNspuMlMp9lQXOEfOA4kZggMkklHhI8dZ4mq3s7HiyHjeE4YuHIwPPDe1DPnguNPTdmpeqvdrz05_2XEACqab46KTva_eZliY2BOA3U3cYhLinMHpHhQOn-57Z2JL9Sdj17ZfNRp1lGx5xr6S4KQ1pifa_MOqgrc4K4M1cKtkNYscGuKKbdsbvsrynwQBkScX0JJaLLRRobh6_4oTx66rt8nDtAaZ5AFi-nYAbKpLPkj5gQJQoXdDXMp4M4xlNbAxo0WzOGQSn7GVTGwvbU63mg1_gQchB1uxYwWH31vqKG2vGUOeBmz2T0fArCwL6mNvl5YxTuHQDl1pRU46Gj_uwVqrXNtLlOHe7W9ljnV99gt0RmLg_fqb7gde-euN0sk6_fmaZVp_v6AK4UPygC64UsP-NWrYDhKoQ3fCtr0nT-WcvTn-oKgvdu75aLX3nv7HRlCH52x7fxI_UGijHHpcRjcZrBK1kXBQEx8DQVbS8n1qtyU-BIPgOxIbBlzkLy3l6vZ92XcdfcN1hF_gG_0hjPiWUA7p0NLO2niVbHuVTfTFMRfM7PiutFHxXZQur-qVVwbOIl-6LGzZLm8csKCjVJw2bCIKiJGbr1bGXKnMnlzn4H_TN2nZSXfEVdXusK-jhTpavYLnPvN0PDqgWCVx4xqNhafANNh_2z-b5IAEyrKXma32-NhxBxXskykD9jJbgzWYuOo697axud7qKcSG19pMughiOWVQ6JdonMFHUuB_KH04pNuhrRYb_VmCW5PxxK9pFZhdlOFt59zCqZNBGbxHDHarXK3qPtta4ecNS9eEclNwbnzOFxmmNtcktN0sXt7gYfXQD-Z4sCA1yzysNV56F-0dqt6zFjW9JarrrJbuwLwvk2XPjoG-ghvFn8bYd-sB32-TkBLEaVtvWb2Pqsnhun4uKwYsSg5LX4J7AcUPpl9RQgikwIo4zsXk-f-mUTKC8QsWD09Mbn0q_kKDLhvFo-VkJmIEA1lVJb-lYik0atPzR1XRVNZYitqW3BgeXU64V3u8hvQUXw_z7ozGGPRTJrc0QYa4Q4ajMNcaQ9kzYWh4-Gvb_jA3ZNmptVW5heOtRyt5Mi6iePkYFUWektX3IllP63nJqnIdJUj2KCkZgnorns58-oL0fm9H_svw_ZT4MXnN9qjSZYchPohTKg-1paPYdjEC0wjUAEpylFWX9rpZA3Mu6acT4bQcQQKth0-YN98-OQdN7Lmrf1n5r3DYGIs3reEMCA7ik8VFAHy2YnKF75l317e_eIu2i8CxUjFoekRY0pXNzw5sRqgcgBqHefx5yrVqFfX9Vr8PKU4aWR3KUHLRlTnd7layQwG_nJ9K-1Cbyei5IYSVo1AZR5EkOEL_OFEvX2mJchx_rh6ZG4IWni-PdWIsN1uOgQTQ1gdLALFNZ5Cv7fcqjw-NEOQ61eTwQNg6hIAsMjVLs_UOamMnytN3tOzRWY756VscpU-ZpD6lvFkSmadCBTd-NnZBPF2Bn1sfw0l_oXb7GwoUxoytzJnVhPJ5E9Ah1sau2QxJWN8tkB5iAlqUrodTxZfclM8y-l4eI7ij9q-lpsLw0nu8HZ6u102-OB-pAPQLDCS7VSq0TaiC2AJ2KDZN18YmScvqkmYM1JWek9LiiWM2W_f1MNeymJWEhTGjGigd24m_JgkTAzKV0YOIlJf2GL5iQhd-DCWTX9_VWtkaDVfJlfnZnU=w1920-h888',
+    tags: ['Python', 'Keras', 'TensorFlow', 'VGG16', 'Pickle', 'PyQt'],
     category: 'machine learning',
-    github: 'https://github.com/rishavchanda/Face-Recodnition-AI-with-Python',
-    webapp: 'https://github.com/rishavchanda/Face-Recodnition-AI-with-Python',
+    github: '',
+    webapp: '',
   },
 ];
 
