@@ -291,7 +291,7 @@ export const projects = [
     description:
       'Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.',
     image:
-      'https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710937913.png',
     tags: [
       'Flutter',
       'Firebase',
@@ -309,7 +309,8 @@ export const projects = [
     date: 'Oct 2022 - Present',
     description:
       'Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.',
-    image: '',
+    image:
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710589851.png',
     tags: [
       'Flutter',
       'Firebase',
@@ -328,7 +329,7 @@ export const projects = [
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-      'https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Digital%20Twin.png',
     tags: ['Python', 'Keras', 'TensorFlow', 'Blender', 'PyQt', 'MySQL'],
     category: 'machine learning',
     github: '',
@@ -345,7 +346,7 @@ export const projects = [
     tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
     github:
-      'https://lh3.googleusercontent.com/fife/ALs6j_HUuMvtX0mS6Rxe5NBjRxgM1IT6vJY-nnpI4OwWivIz4cjDcNIPWeKToVb3qQS6zL2068LVJ0EqP1TVdO6uojRgZzxP-HpA9qVt-hhRKjDNfJUL27IiKekTzo1eD_tqEbDQvQHAnvzQ0FpiENhpKiQEu3fm7BkAd49XAmg5xZ6QbpLbL54jRFtoy6QLpV3oLdX7hGnMLO88eER4yV515vuYkfT5DYprPLRplwhRUa3_tG8C6JPV3IdjuEDhIdG58fD4ktZIkPy8q5eqyCNgbY_6YQwoBbMJc2Hk5WrlWdIYLm1d4NeP_5f0AYh5sR5y2dwsZECAJZz7TU6KmZ_DQVpPf0kZJ03rxILXyEu0JFXNfZEQVUfbLmz-fTqtNkD2w_64ljc6FZganIlqHCKirSlf4Y6LS_Zg8glnpUj3EnZyDMh2N-P_G-TQwomGUiYYkl5H1cFVwK2v0fOkdBfrPkHMxFgWJTDbcklddwPXU_7weXpWsOnDuKxw6JzSVtZtg35KAkQZR_nMOWeGfpTa_pKNzlDsiStGjOMz1LSUt2-kC5HkotVi-PXiYiUDZE9RhMOeSDrCBdVKxf8KlVOHRTOJ1GbUOxQCp1WKuoYrCYXF0dP3J62QWn7FaIW-S74c5rVxWfljIH6W6wf0dnZJiyPGNCCdN5L_GvqzvlIIsk9xihYWtvCsyD2InDnDsGda2dVN6zWEu4VHPFvTCF5Mgg6hKmdRY5wo-ht0OefyQEH6pFyEwc8AQIGK2ZBzsLwg5WymqJ-k5OEQlO50IeghrkTNTh8qQiZt30DLEwaT8whHYcDMJTKPZEUQEYFoDI2FsPSivkvEglp3TMVIrOFoEnU1wFh1qcgsGS_ns7Xpx3HDq5CgGhxpnKpJU4sBgptGs3T3YFwzdV6RNMuBcL1FH1TKFHTZuEJzv1dii-fhROCIfN8yuAzovOumGMZbFJPiL4rJAoCz-gFCSJ6UbR4cXxtblLojdTeVfmQf3AHP2xEGc19uavBrAOBbE52ihxE0sSx-NbDAb-8EygIM8UJyuTBpx97Hi4trhJhtQYHKp-0JrgI_1Q=w1920-h888',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUD%20Operation.png',
     webapp: '',
   },
   {
@@ -355,7 +356,7 @@ export const projects = [
     description:
       'The tire fault detection app is a Python application that uses contour image processing and machine learning to analyze tire images for faults. It takes input images, processes them to detect contours, and then applies machine learning algorithms to identify and classify faults. The app presents the results on a dashboard created with PyQt, providing a user-friendly interface for viewing and understanding the detected faults, enhancing tire inspection and maintenance processes.',
     image:
-      'https://lh3.googleusercontent.com/fife/ALs6j_Gfb9Ii-JHoRto3hKo1tdzNFJoOJt9fZ8rymRV4TVOiHQNoLCQhC77Lb39WOxk-9if95eIK0qu0NqUkxHvkJzKS8zUvLN4Hsawdc-QYyeYnO95B_LbAbjRKJnV9IU3awLumGiYA10i20K89pZ2jUPbeg1OaImH5WLTWcm9coE3YqPjEzEPchNrmQszPwlqexy7NMevn8ZOTuLSgV6FnKJ1cKEceUZmSkYT6B9vOr7nZ-aHRSbnNXVAyUiaTfa6XxcPIto_RTR_0fbQJE-B8VP6qhboVZw9tVYZOWQjp_L0okfH-9F4YJXO4sMeXXJhZ46KIFctNQefZ7_TnNx_TzSj9Uq75sN1BV7S7BufRBy5nrGJd3jfDUm_yroKHf7x_pmQoPTmK6xIDIjBgYLunzjXbYziTRD1oKAamvNKH8I-NsSaeFXmTw9dz197T1prAN6BxNwYMyuyqNGAKHL3ydu-dKD745H1lb82wnWDG2SeU55bTcaCDgdxV4XWTaXlvAKdZsSpZSfn2V68uZij_6vkLKdaKB8NP6EC4E7nS8R4GAF4iz9B78aC7bM-VQWCQe0J1BvSnQKzMJOWymMgv4cnLgDl1FnOc_pZEFEQsv2vnl6iJcjaMM3Xp2g2DkM5kQvs6DhqCbKIJ-YY0rCJuhFN67rWVKurFKhrODPhJAk1Uyq8dURp5dmAe1_SiQRZOK257suEw0eVmmRtFkYCmxAfGkbqVrpyuCKjfXv4y1xvbxOiw0URuRJisecWlK76Xfj4Jls6Nyblrde90pyNausMCP6G1E0G52Me-L8RfKtjYhpLg2Bax5wUvtmwFOEaduaaPz2QqzAbL2iclz1f1KKJ8XsH-JvTV6UNEyLJ56VmKK0nHYUI6T-czZUB7iGujj8emxOEdYHHGn6HxeZKR7sgzIyyRJJ5Tja0iq5eEv7vtRg-UwhqQ725vEdkFopDzZmH0cauZDGPOFIkzs0dgyDDShqGEDrzXAXPYeX_kG5mMk6GbWLLNLduwpkMWXIF7iNeDeByDyG7gp23tNFGfJ4aSNQ7gF5D-GdqP4pVfEeFonXu020D_EbX7SgvxqfhVMbyS0ddIndgq1qDD9rXhSfiedz7VS98itTTTRyjO8L83NDSKiYjrqTe9FEJH8LxRWwsln6M6fNRDdJKuHibwqp9T5X4wI_h_W-dtkABPbkkEywhetO0bNHoNCSedLP-8AfWrfi149yyZaWpW67Lt0rsLTezNvLBrI5zd3iqVExccKNqZ4bTpb2WCZxe4m9ypiQ6HKinNBsRExJLa5lLTjd-G5Sru-xACWbvS5TDzn6V4VvoSjgc7f3Ni7gfOeTKeFpaN4knhW4ymekXv5uWWuhI1qceN-LqBjz8XZ3tV702GDlKV8hoGSkMyvD5kXupcryQtDC4KR6wHP6JJb1OsSAgxq_YYB49bZRTnE7elNsMerJ3yS8YrhFXUWfTcCRCKoKR485qpsBQ1K-qcPpZQ_QY4UBCmnEeJ9m-bJZJyO1UsXQ7TKSoMxcm7Z9hMwYGodRQZd6Pj62n5MTIwX7iZ_HD0wuDGvrYsdPQHowITRoTb4lPw5SZrZnEOZpZ1GjlqN65Do1TcKw2y3tCWEH0LAe5K4JDJ04qGomj6TJV7EuOhydFnMbNhRIHxELukUOJBQG0vav-XlHclbK1nAV_RRcnEfh9Toxh2yE6y4dB9LqIYPGtLCwbS6S8N=w1920-h888',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Tire_Detection.png?raw=true',
     tags: ['Python', 'Keras', 'Tensorflow', 'OpenCV', 'PyQt'],
     category: 'machine learning',
     github: '',
