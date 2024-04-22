@@ -289,7 +289,7 @@ export const projects = [
     title: 'Invoice App',
     date: 'Apr 2023 - May 2023',
     description:
-      'Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.',
+      'Developed a full-stack web application that allows users to search for, add, and share their business invoices on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.',
     image:
       'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710937913.png?raw=true',
     tags: [
@@ -308,7 +308,7 @@ export const projects = [
     title: 'Gst Filing App',
     date: 'Oct 2022 - Present',
     description:
-      'Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.',
+      'Designed and developed the GST Filing project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.',
     image:
       'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Screenshot_1710589851.png?raw=true',
     tags: [
