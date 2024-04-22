@@ -346,7 +346,7 @@ export const projects = [
     tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
     github:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUD%20Operation.png?raw=true',
+      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUDOperation.png?raw=true',
     webapp: '',
   },
   {
