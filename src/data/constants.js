@@ -322,8 +322,7 @@ export const projects = [
     date: 'Jan 2023 - May 2023',
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Digital%20Twin.png?raw=true',
+    image: '',
     tags: ['Python', 'Keras', 'TensorFlow', 'Blender', 'PyQt', 'MySQL'],
     category: 'machine learning',
     github: '',
@@ -339,8 +338,7 @@ export const projects = [
     image: '',
     tags: ['Python', 'MySQL', 'NodeJS', 'PyQt'],
     category: 'web app',
-    github:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/CRUDOperation.png?raw=true',
+    github: '',
     webapp: '',
   },
   {
@@ -349,8 +347,7 @@ export const projects = [
     date: 'Dec 2022 - Jan 2023',
     description:
       'The tire fault detection app is a Python application that uses contour image processing and machine learning to analyze tire images for faults. It takes input images, processes them to detect contours, and then applies machine learning algorithms to identify and classify faults. The app presents the results on a dashboard created with PyQt, providing a user-friendly interface for viewing and understanding the detected faults, enhancing tire inspection and maintenance processes.',
-    image:
-      'https://github.com/ArnabDeepNath/portfolio/blob/main/assets/Tire_Detection.png?raw=true',
+    image: '',
     tags: ['Python', 'Keras', 'Tensorflow', 'OpenCV', 'PyQt'],
     category: 'machine learning',
     github: '',
@@ -362,8 +359,7 @@ export const projects = [
     date: 'Sept 2022',
     description:
       'A Bottle recognition python app made with OpenCV. It uses contours to detect circular caps and uses a counter to count the number of bottles. It uses the external device camera to accept the feed in. The GUI is designed in PyQt for dashboard experience.',
-    image:
-      'https://lh3.googleusercontent.com/fife/ALs6j_FuihNspuMlMp9lQXOEfOA4kZggMkklHhI8dZ4mq3s7HiyHjeE4YuHIwPPDe1DPnguNPTdmpeqvdrz05_2XEACqab46KTva_eZliY2BOA3U3cYhLinMHpHhQOn-57Z2JL9Sdj17ZfNRp1lGx5xr6S4KQ1pifa_MOqgrc4K4M1cKtkNYscGuKKbdsbvsrynwQBkScX0JJaLLRRobh6_4oTx66rt8nDtAaZ5AFi-nYAbKpLPkj5gQJQoXdDXMp4M4xlNbAxo0WzOGQSn7GVTGwvbU63mg1_gQchB1uxYwWH31vqKG2vGUOeBmz2T0fArCwL6mNvl5YxTuHQDl1pRU46Gj_uwVqrXNtLlOHe7W9ljnV99gt0RmLg_fqb7gde-euN0sk6_fmaZVp_v6AK4UPygC64UsP-NWrYDhKoQ3fCtr0nT-WcvTn-oKgvdu75aLX3nv7HRlCH52x7fxI_UGijHHpcRjcZrBK1kXBQEx8DQVbS8n1qtyU-BIPgOxIbBlzkLy3l6vZ92XcdfcN1hF_gG_0hjPiWUA7p0NLO2niVbHuVTfTFMRfM7PiutFHxXZQur-qVVwbOIl-6LGzZLm8csKCjVJw2bCIKiJGbr1bGXKnMnlzn4H_TN2nZSXfEVdXusK-jhTpavYLnPvN0PDqgWCVx4xqNhafANNh_2z-b5IAEyrKXma32-NhxBxXskykD9jJbgzWYuOo697axud7qKcSG19pMughiOWVQ6JdonMFHUuB_KH04pNuhrRYb_VmCW5PxxK9pFZhdlOFt59zCqZNBGbxHDHarXK3qPtta4ecNS9eEclNwbnzOFxmmNtcktN0sXt7gYfXQD-Z4sCA1yzysNV56F-0dqt6zFjW9JarrrJbuwLwvk2XPjoG-ghvFn8bYd-sB32-TkBLEaVtvWb2Pqsnhun4uKwYsSg5LX4J7AcUPpl9RQgikwIo4zsXk-f-mUTKC8QsWD09Mbn0q_kKDLhvFo-VkJmIEA1lVJb-lYik0atPzR1XRVNZYitqW3BgeXU64V3u8hvQUXw_z7ozGGPRTJrc0QYa4Q4ajMNcaQ9kzYWh4-Gvb_jA3ZNmptVW5heOtRyt5Mi6iePkYFUWektX3IllP63nJqnIdJUj2KCkZgnorns58-oL0fm9H_svw_ZT4MXnN9qjSZYchPohTKg-1paPYdjEC0wjUAEpylFWX9rpZA3Mu6acT4bQcQQKth0-YN98-OQdN7Lmrf1n5r3DYGIs3reEMCA7ik8VFAHy2YnKF75l317e_eIu2i8CxUjFoekRY0pXNzw5sRqgcgBqHefx5yrVqFfX9Vr8PKU4aWR3KUHLRlTnd7layQwG_nJ9K-1Cbyei5IYSVo1AZR5EkOEL_OFEvX2mJchx_rh6ZG4IWni-PdWIsN1uOgQTQ1gdLALFNZ5Cv7fcqjw-NEOQ61eTwQNg6hIAsMjVLs_UOamMnytN3tOzRWY756VscpU-ZpD6lvFkSmadCBTd-NnZBPF2Bn1sfw0l_oXb7GwoUxoytzJnVhPJ5E9Ah1sau2QxJWN8tkB5iAlqUrodTxZfclM8y-l4eI7ij9q-lpsLw0nu8HZ6u102-OB-pAPQLDCS7VSq0TaiC2AJ2KDZN18YmScvqkmYM1JWek9LiiWM2W_f1MNeymJWEhTGjGigd24m_JgkTAzKV0YOIlJf2GL5iQhd-DCWTX9_VWtkaDVfJlfnZnU=w1920-h888',
+    image: '',
     tags: ['Python', 'Keras', 'TensorFlow', 'VGG16', 'Pickle', 'PyQt'],
     category: 'machine learning',
     github: '',
