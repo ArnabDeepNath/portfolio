@@ -185,7 +185,7 @@ export const experiences = [
     role: 'Fullstack Developer , Contractual',
     company: 'National Informatics Centre (NIC)',
     date: 'July 2024 - Present ',
-    desc: 'Built various Android and IOS apps using Firebase Firestore and deployed on Google Play Store. leading a team of 2 junior developers.',
+    desc: 'Currently developing dynamic, server-driven mobile and web solutions using React JS and Python-based microservices with AI/ML modeling.',
     skills: [
       'Flutter',
       'Firebase Firestore',
@@ -203,7 +203,7 @@ export const experiences = [
     role: 'Web Designer , Executive',
     company: 'Lafayette Luxury Concierge Private Limited',
     date: 'Nov 2023 - June , 2024',
-    desc: 'Working on the frontend and Backend of the mobile application using Flutter, Firebase, and Google Developer Console.',
+    desc: 'Built AI-driven concierge experiences using Flutter, React JS, Firebase, and Razorpay, integrating Generative AI for personalized luxury services.',
     skills: [
       'Flutter',
       'Firebase Firestore',
@@ -239,7 +239,7 @@ export const experiences = [
     role: 'AI/ML Software Developer',
     company: 'Corrosion Intel Private Limited',
     date: 'Oct 2022 - May 2023',
-    desc: 'Collaborating with Phd Gradutes from IITG to develop Full Stack Application for Corrosion Detection and Visualise it in Desktop based Application , PyQt was used for Frontend , MySQL for backend , Tensorflow was used for machine learning and Blender , PyOpenGl , Pymesh and Numpy for 3D Visualisation',
+    desc: 'Engineered AI/ML software to forecast corrosion rates, enhancing predictive maintenance through Python-driven modeling and 3D visualizations in Blender.',
     doc: '',
     skills: [
       'Python',
@@ -257,7 +257,7 @@ export const experiences = [
     role: 'Graduate Engineer Trainee',
     company: 'Caliche Private Limited',
     date: 'July 2022 - Oct 2022',
-    desc: 'Developed various Machine Learning solution including OpenCV , Socket Programming along with Dashboard implementation using PyQt',
+    desc: 'Developed a digital twin for corrosion prediction and localization, leveraging AI/ML models, PyQt, and MySQL for intelligent asset management.',
     doc: '',
     skills: ['Python', 'Keras', 'TensorFlow', 'Blender', 'PyQt', 'MySQL'],
   },
